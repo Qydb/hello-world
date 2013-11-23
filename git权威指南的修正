@@ -1,0 +1,4 @@
+p022
+$sudo aptitude install git
+命令在ubuntu13.04已经过期，新版本为如下。
+$sudo apt-get install git
